@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class Funcionamento {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
+        //I liked it
         String nome;
         float salario;
         
